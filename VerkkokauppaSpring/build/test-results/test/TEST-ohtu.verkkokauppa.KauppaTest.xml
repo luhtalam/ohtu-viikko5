@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.verkkokauppa.KauppaTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-04-23T15:46:36" hostname="Joni-MacBook-Air.local" time="1.681">
+  <properties/>
+  <testcase name="pyydetaanUusiViiteJokaiseenMaksuun" classname="ohtu.verkkokauppa.KauppaTest" time="1.618"/>
+  <testcase name="aloitaOstoksetNollaaOstosKorinHinnan" classname="ohtu.verkkokauppa.KauppaTest" time="0.012"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaan" classname="ohtu.verkkokauppa.KauppaTest" time="0.006"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaanOikeillaParametreilla1" classname="ohtu.verkkokauppa.KauppaTest" time="0.003"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaanOikeillaParametreilla2" classname="ohtu.verkkokauppa.KauppaTest" time="0.019"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaanOikeillaParametreilla3" classname="ohtu.verkkokauppa.KauppaTest" time="0.003"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaanOikeillaParametreilla4" classname="ohtu.verkkokauppa.KauppaTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
